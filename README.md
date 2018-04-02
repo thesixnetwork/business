@@ -1,2 +1,2 @@
 # business
-idea, roadmap, completed and in-progress features for SIX.network
+idea, whitepaper, roadmap, completed and in-progress features for SIX.network
